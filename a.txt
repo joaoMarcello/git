@@ -1,2 +1,3 @@
 Ola mundo.
 Adicionei uma nova linha.
+Esta linha foi modificada no ramo 'teste'.
